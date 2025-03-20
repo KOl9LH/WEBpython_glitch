@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="abd2716f-be9d-4578-8867-4b0ffd5f3cc4" name="Changes" comment="добавил все" />
+    <list default="true" id="abd2716f-be9d-4578-8867-4b0ffd5f3cc4" name="Changes" comment="исправили старт сш" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -122,13 +122,31 @@
       <option name="project" value="LOCAL" />
       <updated>1742486098974</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="добавил все2">
+      <option name="closed" value="true" />
+      <created>1742486160360</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1742486160360</updated>
+    </task>
+    <task id="LOCAL-00007" summary="исправили старт сш">
+      <option name="closed" value="true" />
+      <created>1742486384419</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1742486384419</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="aa" />
     <MESSAGE value="норм" />
     <MESSAGE value="добавил все" />
-    <option name="LAST_COMMIT_MESSAGE" value="добавил все" />
+    <MESSAGE value="добавил все2" />
+    <MESSAGE value="исправили старт сш" />
+    <option name="LAST_COMMIT_MESSAGE" value="исправили старт сш" />
   </component>
 </project>
