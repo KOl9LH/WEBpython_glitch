@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="abd2716f-be9d-4578-8867-4b0ffd5f3cc4" name="Changes" comment="норм">
-      <change afterPath="$PROJECT_DIR$/WEB18_glitch/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="abd2716f-be9d-4578-8867-4b0ffd5f3cc4" name="Changes" comment="добавил все" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -117,12 +114,21 @@
       <option name="project" value="LOCAL" />
       <updated>1742484391267</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="добавил все">
+      <option name="closed" value="true" />
+      <created>1742486098974</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1742486098974</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="aa" />
     <MESSAGE value="норм" />
-    <option name="LAST_COMMIT_MESSAGE" value="норм" />
+    <MESSAGE value="добавил все" />
+    <option name="LAST_COMMIT_MESSAGE" value="добавил все" />
   </component>
 </project>
